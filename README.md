@@ -5,4 +5,5 @@ Author: Trevor Hardigan
 
 Developed over multiple Code Club episodes to use microbio study to learn how to use R 
 
-
+Dependencies: 
+mothur
