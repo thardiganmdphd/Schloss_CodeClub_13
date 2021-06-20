@@ -19,4 +19,5 @@ then
   touch "$target"
 else
   echo "FAIL: Were not able to successfully extract $filename"
+  exit 1
 fi
