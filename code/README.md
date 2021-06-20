@@ -1,1 +1,1 @@
-downalded mothur for use in this project
+Downloaded mothur for use in this project
